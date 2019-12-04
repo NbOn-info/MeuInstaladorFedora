@@ -18,7 +18,7 @@ sudo dnf update -y;
 #Instalação de Programas em Reprositorios#
 ##########################################
 
-sudo dnf install lsb  "libappindicator3.so.1()(64bit)" libreoffice vlc inkscape gimp kdenlive libreoffice-langpack-pt-PT.x86_64 akmod-nvidia.x86_64 xorg-x11-drv-nvidia-cuda.x86_64 obs-studio kicad arduino godot latte-dock.x86_64 neofetch-6.0.0-4.fc31.noarch thunderbird timeshift youtube-dl -y
+sudo dnf install lsb "libappindicator3.so.1()(64bit)" libreoffice vlc inkscape gimp kdenlive libreoffice-langpack-pt-PT.x86_64 akmod-nvidia.x86_64 xorg-x11-drv-nvidia-cuda.x86_64 obs-studio kicad arduino godot latte-dock.x86_64 neofetch-6.0.0-4.fc31.noarch thunderbird timeshift youtube-dl openssh -y
 
 
 ##########################################
