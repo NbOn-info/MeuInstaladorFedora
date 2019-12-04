@@ -90,4 +90,3 @@ tar -jxvf blender-2.81-linux-glibc217-x86_64.tar.bz2
 ##########################################
 
 ECHO "Instalação efetuada com sussesso!"
-
