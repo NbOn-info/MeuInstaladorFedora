@@ -68,6 +68,7 @@ flatpak install flathub com.visualstudio.code.oss -y
 flatpak install flathub com.jetbrains.PyCharm-Community -y
 flatpak install flathub fr.natron.Natron -y
 flatpak install flathub org.audacityteam.Audacity -y
+flatpak install flathub org.filezillaproject.Filezilla -y
 
 
 ##########################################
