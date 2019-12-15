@@ -66,6 +66,7 @@ flatpak install flathub org.telegram.desktop -y
 flatpak install flathub org.freecadweb.FreeCAD -y
 flatpak install flathub com.visualstudio.code.oss -y
 flatpak install flathub com.jetbrains.PyCharm-Community -y
+flatpak install flathub fr.natron.Natron -y
 flatpak install flathub org.audacityteam.Audacity -y
 
 
